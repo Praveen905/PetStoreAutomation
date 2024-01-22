@@ -1,0 +1,4 @@
+2024-01-21 21:21:55.556 [main] INFO  api.test.UserTests2 - *******************User Creation**********************
+2024-01-21 21:21:58.233 [main] INFO  api.test.UserTests2 - *******************User is Created**********************
+2024-01-21 21:21:58.236 [main] INFO  api.test.UserTests2 - *******************Read User**********************
+2024-01-21 21:21:59.367 [main] INFO  api.test.UserTests2 - *******************User info obtained**********************
